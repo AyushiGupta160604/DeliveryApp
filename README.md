@@ -29,7 +29,7 @@
 - Responsive design for optimal mobile experience
 
 ## Demo
-[!Demo video[https://github.com/AyushiGupta160604/DeliveryApp/blob/main/image.png?raw=true]](https://drive.google.com/file/d/1kSLsCAmI--Fn877dSmwfP9HtXb5WabS-/view?usp=sharing)
+[![Demo video](https://github.com/AyushiGupta160604/DeliveryApp/blob/main/image.png?raw=true)](https://drive.google.com/file/d/1kSLsCAmI--Fn877dSmwfP9HtXb5WabS-/view?usp=sharing)
 
 ## Test
 Test the site from here: `https://snack.expo.dev/@ayushi_gupta/deliveryapp`
