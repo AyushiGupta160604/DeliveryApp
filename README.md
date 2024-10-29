@@ -36,7 +36,7 @@ Test the site from here: `https://snack.expo.dev/@ayushi_gupta/deliveryapp`
 ## **Screenshots**:
 
 <img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/home%20page.png" width="200" />
-![Home Page](https://github.com/AyushiGupta160604/DeliveryApp/blob/main/home%20page.png)
+<img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/product%20list.png" width="200" />
 ![Product List](https://github.com/AyushiGupta160604/DeliveryApp/blob/main/product%20list.png)
 ![Out of stock](https://github.com/AyushiGupta160604/DeliveryApp/blob/main/out%20of%20stock%20product%20page.png)
 ![Product View](https://github.com/AyushiGupta160604/DeliveryApp/blob/main/product%20page.png)
