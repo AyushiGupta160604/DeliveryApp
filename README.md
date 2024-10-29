@@ -6,10 +6,13 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Demo](#demo)
+- [Test](#test)
+- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
+- [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contact](#contact)
 
 ## Introduction
@@ -25,12 +28,24 @@
 - Same-day delivery countdown timer
 - Responsive design for optimal mobile experience
 
+## Demo
+
+## Test
+Test the site from here: `https://snack.expo.dev/@ayushi_gupta/deliveryapp`
+
+## **Screenshots**:
+
 ## Technologies Used
 
 - **React Native**: A framework for building native apps using React.
 - **Expo**: A toolchain built around React Native to facilitate the development process.
 - **JavaScript**: The primary programming language used.
 - **JSON**: Data structure for managing products and logistics information.
+
+## Dependencies
+- `react-native-vector-icons/Ionicons`
+- `@react-navigation/stack`
+- `@react-navigation/native`
 
 ## Installation
 
@@ -45,10 +60,12 @@ To set up the project locally, follow these steps:
    Make sure you have Node.js installed, then run:
    ```bash
    npm install
+   ```
 
 3. **Start the development server**:
    ```bash
    npx expo start
+   ```
 
 4. **Run on a mobile device or simulator**:
    Use the Expo Go app to scan the QR code displayed in the terminal or browser.
@@ -59,4 +76,4 @@ To set up the project locally, follow these steps:
 - Enter your pin code to calculate delivery options.
 - Proceed to payment to complete your order.
 
-## **Screenshots**:
+## Contact
