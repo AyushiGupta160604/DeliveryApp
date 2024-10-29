@@ -1,4 +1,4 @@
-# Delivery App made using React Native
+# "DeliveryApp" made using React Native
 
 ![Delivery App Logo](https://github.com/AyushiGupta160604/DeliveryApp/blob/main/image.png?raw=true)
 
@@ -14,7 +14,7 @@
 
 ## Introduction
 
-Delivery App is a React Native application designed for seamless product delivery services. Users can browse products, enter their pin code to calculate delivery options, and make purchases with ease. The app features a countdown timer for same-day delivery to enhance user experience.
+"DeliveryApp" is a React Native application designed for seamless product delivery services. Users can browse products, enter their pin code to calculate delivery options, and make purchases with ease. The app features a countdown timer for same-day delivery to enhance user experience.
 
 ## Features
 
