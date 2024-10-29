@@ -35,13 +35,13 @@ Test the site from here: `https://snack.expo.dev/@ayushi_gupta/deliveryapp`
 
 ## **Screenshots**:
 
-<img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/home%20page.png" width="200" />
-<img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/product%20list.png" width="200" />
-<img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/out%20of%20stock%20product%20page.png" width="200" />
-<img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/product%20page.png" width="200" />
-<img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/cart.png" width="200" />
-<img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/delivery%20date.png" width="200" />
-<img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/buy.png" width="200" />
+<img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/home%20page.png" width="250" />
+<img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/product%20list.png" width="250" />
+<img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/out%20of%20stock%20product%20page.png" width="250" />
+<img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/product%20page.png" width="250" />
+<img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/cart.png" width="250" />
+<img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/delivery%20date.png" width="250" />
+<img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/buy.png" width="250" />
 
 ## Technologies Used
 
