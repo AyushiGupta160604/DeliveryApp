@@ -35,12 +35,25 @@ Test the site from here: `https://snack.expo.dev/@ayushi_gupta/deliveryapp`
 
 ## **Screenshots**:
 
+#### *Home page*:
 <img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/home%20page.png" width="250" />
+
+#### *Product List page*:
 <img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/product%20list.png" width="250" />
+
+#### *Out of Stock product view*:
 <img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/out%20of%20stock%20product%20page.png" width="250" />
+
+#### *Product view*:
 <img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/product%20page.png" width="250" />
+
+#### *Add to Cart*:
 <img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/cart.png" width="250" />
+
+#### *Delivery Date Estimation*:
 <img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/delivery%20date.png" width="250" />
+
+#### *Buy now*:
 <img src="https://github.com/AyushiGupta160604/DeliveryApp/blob/main/buy.png" width="250" />
 
 ## Technologies Used
