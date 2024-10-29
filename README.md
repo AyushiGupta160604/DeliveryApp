@@ -35,6 +35,14 @@ Test the site from here: `https://snack.expo.dev/@ayushi_gupta/deliveryapp`
 
 ## **Screenshots**:
 
+![Home Page](https://github.com/AyushiGupta160604/DeliveryApp/blob/main/home%20page.png)
+![Product List](https://github.com/AyushiGupta160604/DeliveryApp/blob/main/product%20list.png)
+![Out of stock](https://github.com/AyushiGupta160604/DeliveryApp/blob/main/out%20of%20stock%20product%20page.png)
+![Product View](https://github.com/AyushiGupta160604/DeliveryApp/blob/main/product%20page.png)
+![Add to cart](https://github.com/AyushiGupta160604/DeliveryApp/blob/main/cart.png)
+![Delivery Estimate](https://github.com/AyushiGupta160604/DeliveryApp/blob/main/delivery%20date.png)
+![Buy](https://github.com/AyushiGupta160604/DeliveryApp/blob/main/buy.png)
+
 ## Technologies Used
 
 - **React Native**: A framework for building native apps using React.
